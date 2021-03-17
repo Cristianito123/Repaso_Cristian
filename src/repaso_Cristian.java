@@ -7,6 +7,8 @@ public class repaso_Cristian {
 
 		int a=7;
 		int b=5;
+		
+		System.out.println(Math.sqrt(a/b));
 
 	}
 
